@@ -1,0 +1,16 @@
+Positive,Negative,Result,Score
+"['king', 'woman']",['man'],winterfell,0.45779675245285034
+"['king', 'woman']",['man'],likable,0.4415980577468872
+"['king', 'woman']",['man'],premiere,0.4384293854236603
+"['king', 'woman']",['man'],flees,0.4276998043060303
+"['king', 'woman']",['man'],collapsed,0.4236185550689697
+"['happy', 'sadness']",['joy'],cups,0.5363468527793884
+"['happy', 'sadness']",['joy'],anticipate,0.5189343690872192
+"['happy', 'sadness']",['joy'],cake,0.49540016055107117
+"['happy', 'sadness']",['joy'],everyway,0.49252933263778687
+"['happy', 'sadness']",['joy'],aye,0.4851129353046417
+"['love', 'hate']",['like'],hated,0.4572630226612091
+"['love', 'hate']",['like'],yesss,0.4327279329299927
+"['love', 'hate']",['like'],wire,0.40314623713493347
+"['love', 'hate']",['like'],drs,0.4029356837272644
+"['love', 'hate']",['like'],rick,0.40108245611190796
