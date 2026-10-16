@@ -1,0 +1,8 @@
+{
+  "source": "GoEmotions comments (fallback)",
+  "documents": 207805,
+  "tokens": 2783484,
+  "vocabulary_min5": 19561,
+  "meets_10000_documents": true,
+  "meets_1million_words": true
+}

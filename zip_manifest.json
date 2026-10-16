@@ -1,0 +1,23 @@
+{
+  "zip_name": "Word2Vec_GloVe_Final_Results.zip",
+  "zip_size_mb": 47.007004737854004,
+  "included_models": [
+    "tfidf_vectorizer.pkl",
+    "logistic_regression.pkl",
+    "random_forest.pkl",
+    "glove_embedding_matrix.npy",
+    "word2vec_embedding_matrix.npy",
+    "GloVe_Dense.h5",
+    "Word2Vec_Dense.h5",
+    "GloVe_CNN.h5",
+    "multilabel_emotion_classifier.h5"
+  ],
+  "excluded_models": [
+    "word2vec_custom.model",
+    "GloVe_FineTuned.h5"
+  ],
+  "external_assets": [
+    "go_emotions_dataset.csv",
+    "glove.6B.100d.txt"
+  ]
+}

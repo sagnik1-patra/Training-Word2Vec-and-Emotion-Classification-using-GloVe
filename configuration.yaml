@@ -1,0 +1,7 @@
+batch_size: 64
+best_model: TFIDF_LogisticRegression
+embedding_dimension: 100
+epochs: 20
+max_length: 100
+max_words: 15000
+seed: 42
